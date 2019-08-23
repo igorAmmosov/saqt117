@@ -1,0 +1,33 @@
+.nazvanie{
+	margin-left: 100px;
+	padding-top: 50px;
+	font-family: arial;
+}
+.flex{
+	display: flex;
+
+}
+.bacg{
+	background: #e5efff
+}
+.padding{
+	
+	margin-left: 50px
+}
+.margin{
+	margin-left: 80px;
+}
+.top{
+	margin-top: 30px;
+}
+.a1{
+	margin-top: 30px
+}
+.white{
+	background: white;
+	width: 600px
+}
+.h2{
+	margin-left: 20px;
+	font-family: arial;
+}
